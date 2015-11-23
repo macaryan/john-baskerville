@@ -14,3 +14,5 @@ John Baskerville Project
 [version 3](https://macaryan.github.io/john-baskerville/homev3.html) adding links to this weeks version.
 
 [version 4](https://macaryan.github.io/john-baskerville/homev4.html) adding a table to this weeks version.
+
+[version 6](https://macaryan.github.io/john-baskerville/homev6.html) adding .
