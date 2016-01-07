@@ -13,8 +13,18 @@ John Baskerville Project
 
 [version 3](https://macaryan.github.io/john-baskerville/homev3.html) adding links to this weeks version.
 
+16th November 2015
+------------------
+
 [version 4](https://macaryan.github.io/john-baskerville/homev4.html) adding a table to this weeks version.
 
-[version 5](https://macaryan.github.io/john-baskerville/homev5.html) adding .
+[version 5](https://macaryan.github.io/john-baskerville/homev5.html) adding optimised images.
 
-[version 6](https://macaryan.github.io/john-baskerville/homev6.html) adding .
+23rd November 2015
+------------------
+
+[version 6](https://macaryan.github.io/john-baskerville/homev6.html) adding first set of css rules.
+
+December 2015
+-------------
+[version 7](https://macaryan.github.io/john-baskerville/homev7.html) taking css further and further..
