@@ -8,23 +8,33 @@
 
 body
           {
-          width: 100%;
-          max-width: 650px;
-          min-width: 320px;
-          font-size: 100%;
+         
           font-family: 'Libre Baskerville', Georgia, Times, 'Times New Roman' serif;
           background-color: #gainsboro;     
           color: #666666; 
           line-height: 1.8em;
            } 
+
+article {
+    width: 75%;
+    max-width: 700px;
+    padding-top: 4em;
+    margin: 20px auto;}
           
           
 
 section 
           {padding: 1.4em 0em 1.4em 0;}
 
+.top 
+
+{background: rgba(255, 255, 255, .9);
+    width: 100%;
+    padding-right: 2.5em;
+    padding-left: 1.5em; }
 
 
+    
  
 
 /*---TYPOGRAPHY---*/
@@ -61,6 +71,7 @@ margin-top: 0.7em;
 p { 
     line-height: 1.7em;
     padding-bottom: 1em;
+    
     }
 
 
@@ -100,6 +111,24 @@ blockquote p {
     color:#333;
 }
 
+
+.socialicons li {
+  display: inline;
+  margin: 5px;
+  color: #444;
+}
+
+
+.socialicons li img {
+  width: 45px;
+display: inline;
+}
+
+
+.socialicons li img {
+  width: 45px;
+display: inline;
+}
 
 /*---LINKS---*/
        
@@ -211,7 +240,8 @@ footer  {
     font-size: .8em;
     color: blue;
     ]
-
+    
+    
 
 /*-----TABLET-------*/
 @media (max-width: 50em) {
